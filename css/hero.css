@@ -1,0 +1,34 @@
+body{margin: 0;
+font-size: 28px;
+line-height: 36px;}
+header{background-color: #A7C7E7;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+height: 270px;}
+h1, h2{font-family: 'BIZ UDMincho', serif;}
+header h1{color: #6082B6;
+font-size: 50px;}
+header img{border-radius: 75px;
+width: 300px;
+border: 5px solid #4682B4;
+height: 220;}
+main{max-width: 800px;
+margin: 0 auto;
+padding: 20px;}
+
+main img{max-width: 100%;}
+h2{font-size: 30px;
+color: #4682B4;
+margin: 40px 0 5px;}
+a{color: #4682B4;}
+a:hover{background-color: lightblue;
+	color: white;}
+footer{background-color: #A7C7E7;
+text-align: center;
+padding: 40px;}
+footer p{margin: 0;}
+footer a{color: darkblue;}
+footer a:hover{opacity: .5; background-color: transparent;}
+p.caption{color: gray; font-style: italic;
+margin-top: 0;}
